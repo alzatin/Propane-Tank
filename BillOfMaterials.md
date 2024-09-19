@@ -2,3 +2,7 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
+|Propane Tank|1|$68.95|[Amazon](https://www.amazon.com/Flame-King-YSN230b-Cylinder-Vertical/dp/B08XYH6TND?tag=maslowcnc01-20)|
+|Total: |1|$68.95| |
+
+ 3xCOG MSRP: $206.85
