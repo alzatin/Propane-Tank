@@ -130,7 +130,7 @@
                 },
                 {
                     "name": "zDist",
-                    "ioValue": 25
+                    "ioValue": 30
                 }
             ],
             "description": "Moves a shape laterally in X, Y, Z."
@@ -216,8 +216,8 @@
         {
             "atomType": "Color",
             "name": "Color",
-            "x": 0.7268518518518519,
-            "y": 0.6994219653179191,
+            "x": 0.7261029411764706,
+            "y": 0.7195121951219512,
             "uniqueID": 1726786072613,
             "ioValues": [
                 {
@@ -226,7 +226,7 @@
                 }
             ],
             "description": "Changes the color of the shape.",
-            "selectedColorIndex": 20
+            "selectedColorIndex": 15
         }
     ],
     "allConnectors": [
